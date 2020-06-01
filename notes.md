@@ -16,3 +16,4 @@ Voyant:
 •	How does the language of the text change over the span of the text? Are some words more important in the beginning and some at the end? Could there be framing words?
 -	Terms = same info but this time represented as a table with counts of the number of times the word appears and a ‘spark line’ graph showing roughly where the term is most prominent 
 -	<iframe style='width: 319px; height: 372px;' src='https://voyant-tools.org/tool/Trends/?query=new&query=country&query=mr&query=great&query=%C3%A4%C3%AC&corpus=039bc7a0ba01ab748b0e14225cb3ebf9'></iframe>
+<iframe style='width: 319px; height: 372px;' src='https://voyant-tools.org/tool/Trends/?query=new&query=country&query=mr&query=great&query=%C3%A4%C3%AC&corpus=039bc7a0ba01ab748b0e14225cb3ebf9'></iframe>
